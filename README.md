@@ -1,3 +1,1 @@
-## yyang's blog
-
-Working in progress
+## Working in progress
